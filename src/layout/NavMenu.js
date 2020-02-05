@@ -30,7 +30,7 @@ const NavMenu = (props) => {
         <>
            <Navbar expand="md" id="app-bar" className="custom-nav">
                 <div className="container">
-                    <NavbarBrand href="/">BigCode</NavbarBrand>
+                    <NavbarBrand href="/">iPhoneShop</NavbarBrand>
                     <NavbarToggler onClick={toggle} />
                     <Collapse isOpen={isOpen} navbar>
                     <Nav className="mr-auto" navbar></Nav>
